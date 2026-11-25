@@ -66,7 +66,7 @@
 
 Agentic Shelf delivers Multi-Channel Presence (MCP) tools, live audits, and AI‑driven visibility for e‑commerce platforms. It offers adapters for Shopify, Amazon, WooCommerce, BigCommerce and custom headless stores, enabling merchants to measure and improve how large language models cite their products. The platform provides a free audit console, methodology documentation, and a roadmap for future AI commerce capabilities.
 
-**Areas:** Company · AI · Commerce · MCP · Auditing
+**Areas:** Company · Artificial Intelligence · Commerce · MCP · Auditing
 
 ## agenticshelf-ai on APIs.io
 
@@ -80,26 +80,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenticshelf Ai Authentication](https://apis.io/security/agenticshelf-ai/agenticshelf-ai-authentication/)
-- [Agenticshelf Ai Domain Security](https://apis.io/security/agenticshelf-ai/agenticshelf-ai-domain-security/)
+- [agenticshelf-ai Authentication](https://apis.io/security/agenticshelf-ai/agenticshelf-ai-authentication/)
+- [agenticshelf-ai Domain Security](https://apis.io/security/agenticshelf-ai/agenticshelf-ai-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenticshelf Ai Scopes](https://apis.io/scopes/agenticshelf-ai/agenticshelf-ai-scopes/)
+- [agenticshelf-ai Scopes](https://apis.io/scopes/agenticshelf-ai/agenticshelf-ai-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agenticshelf Ai Plans Pricing](https://apis.io/plans/agenticshelf-ai/agenticshelf-ai-plans-pricing/)
+- [agenticshelf-ai Plans Pricing](https://apis.io/plans/agenticshelf-ai/agenticshelf-ai-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agenticshelf Ai Rate Limits](https://apis.io/rate-limits/agenticshelf-ai/agenticshelf-ai-rate-limits/)
+- [agenticshelf-ai Rate Limits](https://apis.io/rate-limits/agenticshelf-ai/agenticshelf-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -113,7 +113,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.8** — emerging · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 18.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -122,16 +122,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 9.5 |
-| Access clarity | 50.5 |
+| Access clarity | 57.4 |
 
-**Agent readiness 5.6** — agent-aware
+**Agent readiness 2.5** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -149,8 +149,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 16.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agenticshelf-ai/](https://apis.io/providers/agenticshelf-ai/).
 
